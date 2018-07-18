@@ -1,4 +1,2 @@
 // Write your solution here!
-function driver ("Milo", "Otis", "Garfield") {
-  
-}
+const driver ("Milo", "Otis", "Garfield")
